@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskPreloader</string>
+
+    <string name="default_snack_retry">Retry</string>
+    <string name="preloader_init">Starting preloading process</string>
+    <string name="preploader_finish">Finishing</string>
+    <string name="preloader_error">Unexpected Error occurred</string>
+    <string name="snack_default_error">Something went wrong</string>
+    <string name="snack_reintent">Retry</string>
+
+</resources>
